@@ -1,0 +1,64 @@
+q1_p1parallel of first problem  implemetation 512*512
+ 
+Time: 0.0166015625
+
+q1_p1parallel of first problem  implemetation 1024*1024
+ 
+Time: 0.0791015625
+
+q1_p1serial of first problem  implemetation 2000*2000
+ 
+Time: 0.3076171875
+
+q1_p1serial of first problem  implemetation 3000*3000
+ 
+Time: 0.7109375000
+
+q2_p1parallel of second problem  implemetation 512*512
+ 3
+Time: 0.8388671875
+
+q2_p1parallel of second problem  implemetation 512*512
+ 4
+Time: 1.5234375000
+
+q2_p1parallel of second problem  implemetation 512*512
+ 5
+Time: 2.4453125000
+
+q2_p1parallel of second problem  implemetation 1024*1024
+ 3
+Time: 2.6220703125
+
+q2_p1parallel of second problem  implemetation 1024*1024
+ 4
+Time: 4.7910156250
+
+q2_p1parallel of second problem  implemetation 1024*1024
+5 
+Time: 7.6044921875
+
+q2_p1parallel of second problem  implemetation 2000*2000
+ 3
+Time: 10.8095703125
+
+q2_p1parallel of second problem  implemetation 2000*2000
+ 4
+Time: 19.4902343750
+
+q2_p1parallel of second problem  implemetation 2000*2000
+5 
+Time: 31.2500000000
+
+q2_p1parallel of second problem  implemetation 3000*3000
+ 3
+Time: 27.7041015625
+
+q2_p1parallel of second problem  implemetation 3000*3000
+ 4
+Time: 51.0673828125
+
+q2_p1parallel of second problem  implemetation 3000*3000
+5 
+Time: 82.2421875000
+

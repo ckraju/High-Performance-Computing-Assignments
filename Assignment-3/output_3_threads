@@ -1,0 +1,128 @@
+q1serial of first problem  implemetation  512*512
+ 
+Time: 0.0327148438
+
+q1serial of first problem  implemetation 1024*1024
+ 
+Time: 0.1552734375
+
+q1serial of first problem  implemetation 2000*2000
+ 
+Time: 0.6240234375
+
+q1serial of first problem  implemetation 3000*3000
+ 
+Time: 1.4775390625
+
+q1_p1parallel of first problem  implemetation 512*512
+ 
+Time: 0.0146484375
+
+q1_p1parallel of first problem  implemetation 1024*1024
+ 
+Time: 0.0551757812
+
+q1_p1serial of first problem  implemetation 2000*2000
+ 
+Time: 0.2153320312
+
+q1_p1serial of first problem  implemetation 3000*3000
+ 
+Time: 0.4912109375
+
+q2serial of second problem  implemetation 512*512
+ 3
+Time: 1.6210937500
+
+q2serial of second problem  implemetation 512*512
+ 4
+Time: 2.9399414062
+
+q2serial of second problem  implemetation 512*512
+ 5
+Time: 4.7324218750
+
+q2_p1parallel of second problem  implemetation 512*512
+ 3
+Time: 0.5756835938
+
+q2_p1parallel of second problem  implemetation 512*512
+ 4
+Time: 1.0507812500
+
+q2_p1parallel of second problem  implemetation 512*512
+ 5
+Time: 1.6689453125
+
+q2serial of second problem  implemetation 1024*1024
+ 3
+Time: 5.0595703125
+
+q2serial of second problem  implemetation 1024*1024
+ 4
+Time: 9.3598632812
+
+q2serial of second problem  implemetation 1024*1024
+ 5
+Time: 14.7661132812
+
+q2_p1parallel of second problem  implemetation 1024*1024
+ 3
+Time: 1.7866210938
+
+q2_p1parallel of second problem  implemetation 1024*1024
+ 4
+Time: 3.2729492188
+
+q2_p1parallel of second problem  implemetation 1024*1024
+5 
+Time: 5.1899414062
+
+q2serial of second problem  implemetation 2000*2000
+ 3
+Time: 19.6250000000
+
+q2serial of second problem  implemetation 2000*2000
+ 4
+Time: 35.4125976562
+
+q2serial of second problem  implemetation 2000*2000
+ 5
+Time: 56.3349609375
+
+q2_p1parallel of second problem  implemetation 2000*2000
+ 3
+Time: 7.8593750000
+
+q2_p1parallel of second problem  implemetation 2000*2000
+ 4
+Time: 14.1918945312
+
+q2_p1parallel of second problem  implemetation 2000*2000
+5 
+Time: 22.8354492188
+
+q2serial of second problem  implemetation 3000*3000
+ 3
+Time: 52.3046875000
+
+q2serial of second problem  implemetation 3000*3000
+ 4
+Time: 96.3369140625
+
+q2serial of second problem  implemetation 3000*3000
+ 5
+Time: 156.7651367188
+
+q2_p1parallel of second problem  implemetation 3000*3000
+ 3
+Time: 19.0458984375
+
+q2_p1parallel of second problem  implemetation 3000*3000
+ 4
+Time: 34.8681640625
+
+q2_p1parallel of second problem  implemetation 3000*3000
+5 
+Time: 56.2685546875
+
